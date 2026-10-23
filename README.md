@@ -114,7 +114,7 @@ auth-starter-kit/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/auth-starter-kit.git
+git clone https://github.com/ashishhumane/auth-starter-kit.git
 cd auth-starter-kit
 ```
 
